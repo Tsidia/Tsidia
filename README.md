@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jakub Gołębiewski @Tsidia
-- 👀 I’m interested in improving my coding abilities
-- 🌱 Here's where I keep my projects
-- 📫 How to reach me: zyrafafafa2@gmail.com +48531728772
+Hi and welcome to my github page!
+I'm Tsidia and here is where I keep my coding projects. Stick around and look at some cool stuff I made!
 
 <!---
 Tsidia/Tsidia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
